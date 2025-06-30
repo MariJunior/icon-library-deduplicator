@@ -1,0 +1,23 @@
+{
+  "name": "icon-deduplicator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Утилиты для поиска и пометки дубликатов SVG-иконок в коде и в Figma.",
+  "author": "Marina Kalyuzhnaya",
+  "license": "MIT",
+  "main": "svg-deduplicator.js",
+  "scripts": {
+    "dedup:hash": "node svg-deduplicator.js",
+    "dedup:visual": "node svg-visual-deduplicator.js",
+    "clean:hash": "node delete-duplicates.js",
+    "clean:visual": "node visual-delete-duplicates.js"
+  },
+  "keywords": ["svg", "icons", "deduplication", "figma", "design-system"],
+  "dependencies": {
+    "sharp": "^0.33.2",
+    "looks-same": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

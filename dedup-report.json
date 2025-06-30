@@ -1,0 +1,5230 @@
+{
+  "123": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "360": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "1x_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "30fps": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "30fps_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "3d_rotation": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "3g_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "4g_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "4g_plus_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "60fps": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "60fps_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "6_ft_apart": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "abc": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "ac_unit": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "access_alarm": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "access_alarms": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "access_time": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "access_time_filled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "accessibility": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "accessibility_new": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "account_box": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "account_circle": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "account_tree": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "adb": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "add": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_alarm": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_business": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "add_card": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "add_circle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_circle_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_home": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "add_home_work": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "add_link": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "add_location_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "add_reaction": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "add_road": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_task": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "add_to_drive": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "adjust": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "admin_panel_settings": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "ads_click": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "agriculture": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "air": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "airline_seat_legroom_normal": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "airline_seat_legroom_reduced": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "airline_seat_recline_extra": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "airline_stops": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "airlines": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "airplanemode_active": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "airplanemode_inactive": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "airplay": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "alarm": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "alarm_add": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "alarm_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "alarm_on": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "album": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "align_horizontal_center": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "align_horizontal_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "align_horizontal_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "align_vertical_bottom": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "align_vertical_center": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "align_vertical_top": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "all_out": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "alt_route": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "alternate_email": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "anchor": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "android": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "animation": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "apartment": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "api": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "approval": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "apps": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "apps_outage": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "architecture": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "area_chart": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "arrow_back": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_back_ios": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "arrow_back_ios_new": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_circle_down": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_circle_left": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "arrow_circle_right": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "arrow_circle_up": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_downward": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_drop_down": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "arrow_drop_up": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "arrow_forward": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "arrow_forward_ios": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_outward": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "arrow_right_alt": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "arrow_upward": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "art_track": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "aspect_ratio": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "assist_walker": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "assured_workload": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "attach_file": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "attach_money": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "attachment": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "auto_awesome": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "auto_awesome_mosaic": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "auto_graph": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "auto_mode": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "autofps_select": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "autorenew": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "av_timer": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "baby_changing_station": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "backup": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "backup_table": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "balance": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "balcony": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "bar_chart": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "batch_prediction": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_0_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_1_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_2_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_3_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_4_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_5_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_6_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_alert": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_charging_full": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_full": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_saver": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_std": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "battery_unknown": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "bedtime": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "bedtime_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "bento": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "bike_scooter": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "blind": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "blinds": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "blinds_closed": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "block": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "bloodtype": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "bluetooth": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "bluetooth_audio": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "bluetooth_connected": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "bluetooth_disabled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "bluetooth_searching": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "blur_circular": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "blur_linear": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "blur_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "blur_on": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "book": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "bookmark": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "bookmarks": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "border_all": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_bottom": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_clear": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "border_horizontal": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_inner": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_outer": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_style": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_top": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "border_vertical": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "boy": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "brightness_1": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "brightness_2": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_4": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_5": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_6": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_7": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_auto": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_high": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_low": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "brightness_medium": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "broadcast_on_home": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "broadcast_on_personal": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "browse_gallery": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "browser_not_supported": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "brush": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "bubble_chart": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "bungalow": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "business": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "cabin": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "cable": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "cached": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "calendar_month": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "calendar_view_month": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "calendar_view_week": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "call_made": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "call_merge": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "call_missed": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "call_missed_outgoing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "call_received": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "call_split": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "camera": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "camera_outdoor": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "cancel": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "cancel_schedule_send": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "candlestick_chart": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "card_membership": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "card_travel": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "casino": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "cast": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "cast_for_education": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "catching_pokemon": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "category": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "cell_tower": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "cell_wifi": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "chair_alt": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "chalet": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "change_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "change_history": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "chat_bubble": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "chat_bubble_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "check": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "check_box_outline_blank": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "check_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "check_circle_outline": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "checklist": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "checklist_rtl": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "checkroom": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "chevron_left": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "chevron_right": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "child_friendly": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "circle": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "class": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "clear": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "clear_all": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "close": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "close_fullscreen": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "cloud": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "cloud_circle": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "cloud_download": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "cloud_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "cloud_queue": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "cloud_sync": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "cloud_upload": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "co2": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "co_present": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "code": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "code_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "color_lens": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "commit": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "commute": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "compare": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "compare_arrows": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "compost": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "computer": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "connect_without_contact": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "connecting_airports": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "construction": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "contact_support": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "contactless": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "content_copy": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "content_cut": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "content_paste_go": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "content_paste_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "content_paste_search": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "contrast": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "control_point": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "control_point_duplicate": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "cookie": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "copy_all": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "copyright": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "coronavirus": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "corporate_fare": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "cottage": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "countertops": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "credit_card": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "credit_score": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crisis_alert": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "crop": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_16_9": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "crop_3_2": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "crop_5_4": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "crop_7_5": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "crop_din": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_free": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_landscape": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_original": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_portrait": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_rotate": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "crop_square": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "cruelty_free": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "css": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "currency_bitcoin": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_exchange": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_franc": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_lira": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_pound": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_ruble": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_rupee": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_yen": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "currency_yuan": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "curtains": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "curtains_closed": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "cyclone": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "dark_mode": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "dashboard": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "data_array": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "data_object": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "data_saver_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "data_saver_on": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "data_usage": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "dataset": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "deblur": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "deck": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "dehaze": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "density_large": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "density_medium": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "density_small": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "deselect": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "desk": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "details": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "developer_board_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "developer_mode": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "device_hub": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "device_thermostat": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "devices": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "devices_fold": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "dialpad": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "diamond": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_bike": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "directions_railway": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_railway_filled": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_run": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "directions_subway": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_subway_filled": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_transit": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_transit_filled": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "directions_walk": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "disabled_by_default": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "disabled_visible": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "disc_full": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "discount": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "display_settings": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "diversity_1": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "diversity_2": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "diversity_3": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "do_disturb": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "do_disturb_alt": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "do_disturb_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "do_not_disturb": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "do_not_disturb_alt": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "do_not_disturb_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "do_not_disturb_on_total_silence": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "dock": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "domain": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "domain_add": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "domain_disabled": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "domain_verification": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "done": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "done_all": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "done_outline": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "donut_large": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "double_arrow": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "downhill_skiing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "download_done": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "download_for_offline": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "downloading": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "drag_handle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "drag_indicator": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "duo": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "dynamic_feed": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "e_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "earbuds": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "east": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "edit_attributes": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "edit_note": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "edit_road": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "egg": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "egg_alt": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "elderly": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "elderly_woman": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "electric_bike": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "electric_bolt": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "electric_meter": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "electric_scooter": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "electrical_services": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "emergency": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "emergency_share": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "emoji_emotions": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "emoji_events": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "emoji_nature": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "emoji_people": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "emoji_symbols": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "emoji_transportation": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "equalizer": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "error": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "error_outline": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "escalator_warning": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "euro": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "euro_symbol": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "exit_to_app": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "expand_circle_down": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "expand_less": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "expand_more": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "explore": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "exposure_neg_1": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "exposure_neg_2": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "exposure_plus_1": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "exposure_plus_2": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "exposure_zero": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "face": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "face_2": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "face_3": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "face_4": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "face_5": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "face_6": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "face_retouching_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "factory": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "family_restroom": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "fast_forward": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "fast_rewind": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "favorite": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "favorite_border": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "female": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "fence": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "festival": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "fiber_manual_record": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "fiber_smart_record": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "file_download": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "file_download_done": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "file_download_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "filter": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_1": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_2": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_3": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_4": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_5": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_6": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_7": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_8": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_9": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_9_plus": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_b_and_w": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_center_focus": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_drama": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "filter_hdr": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "filter_list": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "filter_list_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "filter_none": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "filter_tilt_shift": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "filter_vintage": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "find_replace": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "fingerprint": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "fire_extinguisher": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "first_page": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "fitbit": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "fitness_center": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "flag_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "flaky": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "flare": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "flash_auto": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "flash_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "flash_on": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "flashlight_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "flashlight_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "flatware": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "flight": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "flight_land": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "flip": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "flip_camera_android": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "flip_to_back": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "flip_to_front": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "flood": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "fluorescent": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "flutter_dash": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "fmd_bad": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "fmd_good": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "folder_open": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "follow_the_signs": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "food_bank": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "forest": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "fork_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "fork_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_align_center": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_align_justify": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_align_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_align_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_bold": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_clear": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "format_color_fill": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "format_color_text": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_indent_decrease": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_indent_increase": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_italic": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "format_line_spacing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_list_bulleted": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_list_numbered": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_list_numbered_rtl": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "format_overline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_shapes": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_size": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_strikethrough": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "format_textdirection_l_to_r": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "format_textdirection_r_to_l": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "format_underlined": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "forward_10": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "forward_30": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "forward_5": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "forward_to_inbox": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "foundation": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "fullscreen": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "fullscreen_exit": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "functions": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "g_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "g_translate": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "gamepad": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "games": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "garage": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "gavel": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "generating_tokens": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "gesture": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "get_app": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "girl": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "gite": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "golf_course": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "gpp_bad": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "gpp_good": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "gpp_maybe": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "gps_fixed": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "gps_not_fixed": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "gps_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "grading": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grain": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "graphic_eq": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grass": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grid_3x3": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grid_4x4": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grid_goldenratio": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "grid_on": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "group_add": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "group_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "group_remove": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "group_work": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "groups": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "groups_2": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "groups_3": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "h_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "h_plus_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hail": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "handshake": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "hdr_auto": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hdr_enhanced_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hdr_off_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hdr_on": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hdr_on_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hdr_strong": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "hdr_weak": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "healing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "health_and_safety": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hearing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hearing_disabled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "heart_broken": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "heat_pump": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "height": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "help": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "help_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hevc": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hexagon": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hide_source": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "highlight": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "highlight_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hiking": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "history_edu": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "history_toggle_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hive": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hls": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hls_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "holiday_village": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "home_max": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "home_mini": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "home_work": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "horizontal_distribute": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "horizontal_rule": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "horizontal_split": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hotel_class": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "hourglass_bottom": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hourglass_disabled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hourglass_empty": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hourglass_full": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "hourglass_top": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "house": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "house_siding": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "html": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "http": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "hub": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "hvac": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "image_aspect_ratio": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "import_export": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "important_devices": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "incomplete_circle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "info": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "insert_emoticon": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "insert_link": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "insights": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "install_desktop": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "interests": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "interpreter_mode": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "invert_colors": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "invert_colors_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "ios_share": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "iso": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "javascript": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "join_full": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "join_inner": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "join_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "join_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "kayaking": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "kebab_dining": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "key": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "key_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "keyboard_arrow_down": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_arrow_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_arrow_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_arrow_up": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "keyboard_backspace": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "keyboard_capslock": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_command_key": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "keyboard_control_key": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_double_arrow_down": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_double_arrow_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_double_arrow_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_double_arrow_up": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_option_key": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_return": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "keyboard_tab": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "keyboard_voice": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "kitesurfing": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "lan": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "landscape": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "landslide": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "language": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "laptop": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "laptop_chromebook": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "laptop_mac": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "laptop_windows": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "last_page": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "launch": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "layers": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "leaderboard": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "leak_add": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "leak_remove": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "legend_toggle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "lens": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "lens_blur": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "light_mode": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "lightbulb_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "line_axis": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "line_style": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "line_weight": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "linear_scale": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "link_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "list": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "living": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "local_airport": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "local_atm": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "local_bar": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_convenience_store": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_dining": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "local_fire_department": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_florist": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_library": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_movies": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_parking": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "local_pharmacy": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "local_pizza": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "location_city": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "location_disabled": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "location_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "location_searching": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "lock_person": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "login": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "logo_dev": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "looks": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "loop": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "loupe": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "low_priority": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "lte_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "lte_plus_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "lyrics": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "macro_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "mail_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "male": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "man": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "man_2": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "man_3": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "man_4": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "manage_history": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "manage_search": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "maps_home_work": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "maps_ugc": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "mark_chat_unread": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "masks": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "maximize": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "media_bluetooth_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "media_bluetooth_on": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "meeting_room": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "memory": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "menu": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "menu_book": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "menu_open": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "merge": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "merge_type": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "mic": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "mic_none": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "minimize": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "miscellaneous_services": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "mobiledata_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "mode_fan_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "mode_night": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "mode_of_travel": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "mode_standby": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "model_training": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "monetization_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "money_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "money_off_csred": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "monitor": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "monitor_heart": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "monochrome_photos": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "mood": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "mood_bad": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "more_horiz": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "more_time": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "more_vert": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "mosque": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "motion_photos_auto": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "motion_photos_on": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "motion_photos_pause": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "motion_photos_paused": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "mouse": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "move_down": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "move_up": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "movie": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "movie_creation": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "movie_filter": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "moving": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "multiline_chart": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "multiple_stop": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "museum": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "music_note": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "music_video": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "my_location": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "nat": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "nature": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "navigate_before": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "navigate_next": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "near_me": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "near_me_disabled": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "nearby_error": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "nearby_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "nest_cam_wired_stand": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "network_cell": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "network_check": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "network_ping": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "network_wifi": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "network_wifi_1_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "network_wifi_2_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "network_wifi_3_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "new_releases": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "newspaper": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "next_plan": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "nfc": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "nightlife": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "nightlight": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "nightlight_round": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "nights_stay": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "no_accounts": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "no_adult_content": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "no_meals": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "noise_aware": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "noise_control_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "nordic_walking": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "north": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "north_east": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "north_west": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "not_interested": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "not_started": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "notes": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "notifications_none": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "numbers": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "offline_bolt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "offline_pin": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "online_prediction": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "opacity": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "open_in_browser": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "open_in_full": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "open_in_new": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "open_in_new_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "open_with": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "other_houses": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "outbound": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "outlined_flag": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "output": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "paid": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "palette": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "panorama_fish_eye": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "panorama_horizontal": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "panorama_horizontal_select": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "panorama_photosphere_select": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "panorama_vertical": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "panorama_vertical_select": {
+    "keep": ["outlined"],
+    "remove": ["round"]
+  },
+  "panorama_wide_angle": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "panorama_wide_angle_select": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "paragliding": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "park": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "password": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "pattern": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "pause": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "pause_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "pause_circle_filled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "pause_circle_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "payment": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "pedal_bike": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "pending": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "pending_actions": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "pentagon": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "people_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "percent": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "perm_scan_wifi": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_2": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_3": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_4": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_add": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_add_alt_1": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "person_remove": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_remove_alt_1": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "person_search": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "personal_injury": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "personal_video": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "pest_control": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "pets": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "phishing": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "phone_iphone": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "phonelink": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "phonelink_erase": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "phonelink_lock": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "phonelink_ring": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "photo_size_select_large": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "photo_size_select_small": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "php": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "piano": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "piano_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "pie_chart": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "pie_chart_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "pix": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "play_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "play_circle_filled": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "play_circle_outline": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "play_for_work": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "playlist_add": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "playlist_add_check": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "playlist_add_check_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "playlist_add_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "playlist_play": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "playlist_remove": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "plumbing": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "plus_one": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "podcasts": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "point_of_sale": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "policy": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "polyline": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "polymer": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "portable_wifi_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "post_add": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "power_input": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "power_settings_new": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "pregnant_woman": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "present_to_all": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "preview": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "priority_high": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "privacy_tip": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "production_quantity_limits": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "propane_tank": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "psychology": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "public": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "public_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "publish": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "published_with_changes": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "qr_code": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "qr_code_2": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "qr_code_scanner": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "query_builder": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "query_stats": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "question_mark": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "queue_music": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "queue_play_next": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "r_mobiledata": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "radar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "radio_button_checked": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "radio_button_unchecked": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "ramp_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "ramp_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "raw_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "raw_on": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "read_more": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "receipt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "rectangle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "recycling": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "redeem": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "redo": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "reduce_capacity": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "refresh": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "remember_me": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "remove": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "remove_circle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "remove_circle_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "remove_done": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "remove_red_eye": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "remove_road": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "reorder": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "repartition": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "repeat": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "repeat_one": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "replay": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "replay_10": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "replay_30": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "replay_5": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "reply": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "reply_all": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "report_gmailerrorred": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "report_problem": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "restart_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "restaurant": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "restaurant_menu": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "restore": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "rice_bowl": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "roller_shades": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "roller_shades_closed": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "roofing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "room": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "room_preferences": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "rotate_90_degrees_ccw": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "rotate_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "rotate_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "roundabout_left": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "roundabout_right": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "rounded_corner": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "route": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "rss_feed": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "rsvp": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "rtt": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "rule": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "run_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "running_with_errors": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "safety_check": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "safety_divider": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "sailing": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sanitizer": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "saved_search": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "scale": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "scatter_plot": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "schedule": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "schema": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "school": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "science": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "screen_rotation": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "screen_rotation_alt": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "screenshot_monitor": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "scuba_diving": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "search": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "search_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "security": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "segment": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "select_all": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "self_improvement": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sell": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "send_time_extension": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "sensor_occupied": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sensor_window": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "sensors": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sensors_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sentiment_dissatisfied": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "sentiment_very_dissatisfied": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "settings_accessibility": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_backup_restore": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_bluetooth": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_brightness": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "settings_ethernet": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_input_antenna": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_input_svideo": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_overscan": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "settings_power": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "settings_suggest": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "settings_voice": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "severe_cold": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "shape_line": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "share": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "share_location": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "shield_moon": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "shopping_bag": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "shopping_cart_checkout": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "short_text": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "shortcut": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "show_chart": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "shower": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "shuffle": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "shutter_speed": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sick": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "signal_cellular_0_bar": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_cellular_4_bar": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_cellular_alt": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_cellular_alt_1_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_alt_2_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_connected_no_internet_0_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_connected_no_internet_4_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_nodata": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_null": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_cellular_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_wifi_0_bar": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_wifi_4_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_wifi_4_bar_lock": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "signal_wifi_bad": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_wifi_connected_no_internet_4": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_wifi_off": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "signal_wifi_statusbar_4_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signal_wifi_statusbar_connected_no_internet_4": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "signal_wifi_statusbar_null": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "signpost": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "single_bed": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "skateboarding": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "skip_next": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sledding": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "slideshow": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "slow_motion_video": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "smart_button": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "smartphone": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "snooze": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "snowboarding": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "snowshoeing": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "social_distance": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "solar_power": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sort": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sort_by_alpha": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "sos": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "south": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "south_america": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "south_east": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "south_west": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "spa": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "space_bar": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "spatial_audio": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "spatial_audio_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "spatial_tracking": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "speaker": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "speaker_phone": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "spellcheck": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "splitscreen": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "spoke": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "sports": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_baseball": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "sports_basketball": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "sports_cricket": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sports_esports": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "sports_football": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sports_golf": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_gymnastics": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_handball": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_hockey": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "sports_kabaddi": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_martial_arts": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_motorsports": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "sports_rugby": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "sports_score": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_soccer": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "sports_tennis": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sports_volleyball": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "square": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "square_foot": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "ssid_chart": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "stacked_bar_chart": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "stacked_line_chart": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "stadium": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "star": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "star_border": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "star_border_purple500": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "star_half": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "star_outline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "star_purple500": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "star_rate": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "stars": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "start": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "stay_current_landscape": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "stay_current_portrait": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "stay_primary_landscape": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "stay_primary_portrait": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "stop_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "storage": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "store": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "store_mall_directory": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "storefront": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "storm": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "straight": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "straighten": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "stream": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "streetview": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "strikethrough_s": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "style": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "subdirectory_arrow_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "subdirectory_arrow_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "subject": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "subscript": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "subway": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "superscript": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "supervised_user_circle": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "support": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "support_agent": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "surfing": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "swap_calls": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "swap_horiz": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "swap_horizontal_circle": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "swap_vert": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "swipe_down_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "swipe_left_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "swipe_right_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "swipe_up_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "switch_access_shortcut": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "switch_access_shortcut_add": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "switch_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "switch_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sync": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sync_alt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "sync_disabled": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "sync_lock": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "sync_problem": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "system_update": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tab": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tab_unselected": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "table_rows": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "table_view": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tablet": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "tablet_android": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tablet_mac": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "tag": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "tag_faces": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tap_and_play": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "task_alt": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "temple_hindu": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "terminal": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "terrain": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "text_decrease": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "text_fields": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "text_format": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "text_increase": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "text_rotate_up": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "text_rotate_vertical": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "text_rotation_angledown": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "text_rotation_angleup": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "text_rotation_down": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "text_rotation_none": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "textsms": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "texture": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "theaters": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "thermostat": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "thermostat_auto": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "thunderstorm": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "timelapse": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "timeline": {
+    "keep": ["outlined", "round"],
+    "remove": ["filled", "sharp"]
+  },
+  "timer": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "timer_10": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "timer_10_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "timer_3": {
+    "keep": ["outlined"],
+    "remove": ["sharp", "round"]
+  },
+  "timer_3_select": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "timer_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "tips_and_updates": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "title": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "toc": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "toggle_off": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "toggle_on": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "token": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "toll": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "tonality": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "tornado": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "tour": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "toys": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "track_changes": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "transcribe": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "transfer_within_a_station": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "transform": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "transgender": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "transit_enterexit": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "translate": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "travel_explore": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "trending_down": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "trending_flat": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "trending_up": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "trip_origin": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "troubleshoot": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "tsunami": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "tune": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "tungsten": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "turn_left": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turn_right": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turn_sharp_left": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turn_sharp_right": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turn_slight_left": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turn_slight_right": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "turned_in": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "turned_in_not": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "tv": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "two_wheeler": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "u_turn_left": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "u_turn_right": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "umbrella": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "undo": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "unfold_less": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "unfold_less_double": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "unfold_more": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "unfold_more_double": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "unpublished": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "update": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "update_disabled": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "upgrade": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "usb": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "usb_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vape_free": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vaping_rooms": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "verified": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "verified_user": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "vertical_align_bottom": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vertical_align_center": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vertical_align_top": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vertical_distribute": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vertical_shades": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "vertical_shades_closed": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "vertical_split": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "vibration": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "video_label": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "video_settings": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "view_agenda": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "view_array": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_carousel": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_column": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_comfy": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_compact": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "view_headline": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "view_list": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_module": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_quilt": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_sidebar": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "view_stream": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "view_week": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "vignette": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "villa": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "visibility": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "voicemail": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "volcano": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "volume_down": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "volume_mute": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "volume_up": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "vpn_key": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "vpn_key_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wallet": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "wallpaper": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "warehouse": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "warning": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "warning_amber": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "watch": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "watch_later": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "watch_off": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "water": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "water_damage": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "waterfall_chart": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "waves": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wb_auto": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wb_cloudy": {
+    "keep": ["round"],
+    "remove": ["sharp"]
+  },
+  "wb_shade": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "wb_sunny": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wb_twilight": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wc": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "web_asset": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "web_asset_off": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "web_stories": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "webhook": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "west": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "whatsapp": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp", "round"]
+  },
+  "whatshot": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wheelchair_pickup": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "widgets": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "width_full": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "width_normal": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "width_wide": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "wifi": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_1_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_2_bar": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_channel": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_find": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wifi_lock": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "wifi_protected_setup": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_tethering": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_tethering_error": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wifi_tethering_off": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "window": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "wine_bar": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "woman": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "woman_2": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "work": {
+    "keep": ["outlined"],
+    "remove": ["filled", "round"]
+  },
+  "work_history": {
+    "keep": ["filled"],
+    "remove": ["round"]
+  },
+  "workspace_premium": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "workspaces": {
+    "keep": ["filled"],
+    "remove": ["round", "sharp"]
+  },
+  "wrap_text": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "wrong_location": {
+    "keep": ["filled"],
+    "remove": ["sharp"]
+  },
+  "wysiwyg": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "youtube_searched_for": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "zoom_in": {
+    "keep": ["outlined"],
+    "remove": ["sharp"]
+  },
+  "zoom_in_map": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  },
+  "zoom_out": {
+    "keep": ["outlined"],
+    "remove": ["filled"]
+  },
+  "zoom_out_map": {
+    "keep": ["outlined"],
+    "remove": ["filled", "sharp"]
+  }
+}

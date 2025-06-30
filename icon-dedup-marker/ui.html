@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <body>
+    <input type="file" id="fileInput" accept=".json" />
+    <script>
+      document.getElementById("fileInput").addEventListener("change", async (event) => {
+        const file = event.target.files[0];
+        const text = await file.text();
+        parent.postMessage({ pluginMessage: { type: "load-json", content: text } }, "*");
+      });
+    </script>
+  </body>
+</html>
